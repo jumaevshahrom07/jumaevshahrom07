@@ -31,76 +31,81 @@
 
 ## 👨‍💻 About Me
 
-```csharp
-namespace ShahromJumaev.Profile;
+<div align="center">
 
-public sealed class Developer
-{
-    public string Name => "Shahrom Jumaev";
+### Junior .NET Backend Developer from Dushanbe, Tajikistan 🇹🇯
 
-    public string Role => "Junior .NET Backend Developer";
-
-    public string Location => "Dushanbe, Tajikistan";
-
-    public IReadOnlyList<string> CoreStack =>
-    [
-        "C#",
-        "ASP.NET Core",
-        "Entity Framework Core",
-        "PostgreSQL",
-        "REST API",
-        "JWT",
-        "Git"
-    ];
-
-    public IReadOnlyList<string> CurrentlyLearning =>
-    [
-        "Docker",
-        "Clean Architecture",
-        "Unit Testing"
-    ];
-
-    public string CareerGoal =>
-        "Build reliable backend systems and grow as a professional .NET developer";
-
-    public bool OpenToWork => true;
-}
-```
-
-### 🇬🇧 English
-
-I am a **Junior .NET Backend Developer** from Dushanbe, Tajikistan.  
-I build backend applications and RESTful APIs using **C# and ASP.NET Core**.
-
-My main focus is writing understandable, structured and maintainable backend code.
-
-- ⚙️ Developing backend applications with **ASP.NET Core**
-- 🗄️ Working with **PostgreSQL** and **Entity Framework Core**
-- 🔐 Implementing authentication and authorization with **JWT**
-- 🌐 Designing and developing **RESTful APIs**
-- 🧱 Learning **Clean Architecture**
-- 🐳 Learning application containerization with **Docker**
-- 🧪 Improving my knowledge of **Unit Testing**
-- 💼 Open to **Internship** and **Junior .NET Backend Developer** opportunities
-
-<details>
-<summary><b>🇷🇺 Читать на русском</b></summary>
+I build structured, secure, and maintainable backend applications using  
+**C#, ASP.NET Core, Entity Framework Core, and PostgreSQL.**
 
 <br>
 
-Я **Junior .NET Backend Developer** из Душанбе, Таджикистан.  
-Разрабатываю серверные приложения и REST API на **C# и ASP.NET Core**.
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-16A34A?style=for-the-badge&logo=statuspage&logoColor=white" alt="Open to opportunities" />
 
-Мой основной приоритет — понятный, структурированный и поддерживаемый backend-код.
+</div>
 
-- ⚙️ Разрабатываю backend-приложения на **ASP.NET Core**
-- 🗄️ Работаю с **PostgreSQL** и **Entity Framework Core**
-- 🔐 Реализую аутентификацию и авторизацию через **JWT**
-- 🌐 Проектирую и разрабатываю **REST API**
-- 🧱 Изучаю **Clean Architecture**
-- 🐳 Изучаю контейнеризацию приложений с помощью **Docker**
-- 🧪 Улучшаю знания в области **Unit Testing**
-- 💼 Рассматриваю **стажировки** и вакансии **Junior .NET Backend Developer**
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 What I Do
+
+- Build backend applications with **ASP.NET Core**
+- Design and develop **RESTful APIs**
+- Work with **PostgreSQL** databases
+- Use **Entity Framework Core** for data access
+- Implement authentication and authorization with **JWT**
+- Structure projects with clear separation of responsibilities
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Current Focus
+
+- Learning **Clean Architecture**
+- Containerizing .NET applications with **Docker**
+- Writing reliable **Unit Tests**
+- Improving database design skills
+- Building production-oriented portfolio projects
+- Preparing for my first professional .NET role
+
+</td>
+</tr>
+</table>
+
+### 🧰 Core Skills
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+<img src="https://img.shields.io/badge/Entity_Framework_Core-6D28D9?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/REST_API-0284C7?style=for-the-badge&logo=swagger&logoColor=white" alt="REST API" />
+<img src="https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
+</div>
+
+<br>
+
+<details>
+<summary><b>🇷🇺 Обо мне на русском</b></summary>
+
+<br>
+
+Я **Junior .NET Backend Developer** из Душанбе, Таджикистан.
+
+Разрабатываю структурированные, безопасные и поддерживаемые backend-приложения на **C# и ASP.NET Core**.
+
+- Создаю и проектирую **REST API**
+- Работаю с **PostgreSQL** и **Entity Framework Core**
+- Реализую аутентификацию и авторизацию через **JWT**
+- Использую **Git** для управления версиями
+- Изучаю **Docker, Clean Architecture и Unit Testing**
+- Рассматриваю стажировки и вакансии **Junior .NET Backend Developer**
 
 </details>
 
@@ -283,32 +288,24 @@ An educational .NET solution for working with online course functionality.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Overview
 
 <div align="center">
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jumaevshahrom07&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6&text_color=E2E8F0&ring_color=38BDF8&rank_icon=github"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jumaevshahrom07&theme=github_dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jumaevshahrom07&show_icons=true&hide_border=true&title_color=2563EB&icon_color=7C3AED&text_color=0F172A&rank_icon=github"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jumaevshahrom07&theme=github"
     media="(prefers-color-scheme: light)"
   />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jumaevshahrom07&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jumaevshahrom07&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0&langs_count=8"
-    media="(prefers-color-scheme: dark)"
+  <img
+    width="96%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jumaevshahrom07&theme=github_dark"
+    alt="Shahrom Jumaev GitHub profile overview"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jumaevshahrom07&layout=compact&hide_border=true&title_color=2563EB&text_color=0F172A&langs_count=8"
-    media="(prefers-color-scheme: light)"
-  />
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumaevshahrom07&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used repository languages" />
 </picture>
 
 </div>
@@ -319,25 +316,43 @@ An educational .NET solution for working with online course functionality.
 
 <picture>
   <source
-    srcset="https://streak-stats.demolab.com?user=jumaevshahrom07&hide_border=true&background=0D1117&ring=7C3AED&fire=38BDF8&currStreakNum=E2E8F0&currStreakLabel=38BDF8&sideNums=E2E8F0&sideLabels=94A3B8&dates=64748B"
+    srcset="https://github-readme-stats.vercel.app/api?username=jumaevshahrom07&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E2E8F0&icon_color=38BDF8&text_color=94A3B8&ring_color=38BDF8&rank_icon=github"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://streak-stats.demolab.com?user=jumaevshahrom07&hide_border=true&ring=7C3AED&fire=2563EB&currStreakLabel=2563EB"
+    srcset="https://github-readme-stats.vercel.app/api?username=jumaevshahrom07&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0F172A&icon_color=2563EB&text_color=475569&ring_color=2563EB&rank_icon=github"
     media="(prefers-color-scheme: light)"
   />
-  <img width="70%" src="https://streak-stats.demolab.com?user=jumaevshahrom07&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=jumaevshahrom07&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
+    alt="Shahrom Jumaev GitHub statistics"
+  />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jumaevshahrom07&layout=compact&hide_border=true&bg_color=0D1117&title_color=E2E8F0&text_color=94A3B8&langs_count=6"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jumaevshahrom07&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0F172A&text_color=475569&langs_count=6"
+    media="(prefers-color-scheme: light)"
+  />
+  <img
+    width="41%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumaevshahrom07&layout=compact&hide_border=true&theme=github_dark&langs_count=6"
+    alt="Most used repository languages"
+  />
 </picture>
 
 </div>
 
 <br>
 
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jumaevshahrom07&bg_color=0D1117&color=CBD5E1&line=7C3AED&point=38BDF8&area=true&area_color=312E81&hide_border=true&custom_title=Shahrom's%20Contribution%20Activity" alt="GitHub contribution activity graph" />
-
-</div>
+<p align="center">
+  <sub>Statistics are generated from public GitHub repositories.</sub>
+</p>
 
 ---
 
