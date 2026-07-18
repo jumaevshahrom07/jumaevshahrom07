@@ -23,7 +23,7 @@
 
 </div>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## 👨‍💻 About Me
 
 <img align="right" width="38%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding" />
 
@@ -57,7 +57,7 @@ public sealed class Developer
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="divider" />
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
@@ -84,7 +84,7 @@ public sealed class Developer
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="divider" />
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sarv2eh/giphy.gif" width="28"> Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -135,14 +135,14 @@ REST API с аутентификацией и авторизацией. JWT, р�
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="divider" />
 
-## <img src="https://media.giphy.com/media/H7oCNkPXJ4Ss1nyUF1/giphy.gif" width="28"> GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jumaevshahrom07&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=7C3AED&text_color=94A3B8&rank_icon=github" alt="stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jumaevshahrom07&hide_border=true&background=0D1117&stroke=1D4ED8&ring=38BDF8&fire=7C3AED&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=475569&currStreakNum=E2E8F0&sideNums=E2E8F0" alt="streak" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=jumaevshahrom07&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=7C3AED&text_color=94A3B8&rank_icon=github" alt="stats" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=jumaevshahrom07&hide_border=true&background=0D1117&stroke=1D4ED8&ring=38BDF8&fire=7C3AED&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=475569&currStreakNum=E2E8F0&sideNums=E2E8F0" alt="streak" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumaevshahrom07&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&langs_count=8" alt="langs" />
+<img width="60%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jumaevshahrom07&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&langs_count=8" alt="langs" />
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jumaevshahrom07&bg_color=0D1117&color=38BDF8&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="activity" />
 
@@ -152,7 +152,7 @@ REST API с аутентификацией и авторизацией. JWT, р�
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="divider" />
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -167,7 +167,7 @@ REST API с аутентификацией и авторизацией. JWT, р�
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="divider" />
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Let's Connect
+## 📫 Let's Connect
 
 <div align="center">
 
