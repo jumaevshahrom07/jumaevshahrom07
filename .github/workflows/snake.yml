@@ -23,6 +23,13 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Generate trophy SVG
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: ${{ github.repository_owner }}
+          output_path: dist/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
