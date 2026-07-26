@@ -14,6 +14,8 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" width="38%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Developer working at a computer" />
+
 ```csharp
 public sealed class Developer
 {
@@ -39,6 +41,20 @@ public sealed class Developer
 - 🔐 Реализую **JWT authentication**, refresh-токены и роли
 - ⚡ Использую **SignalR** и интеграции с внешними API
 - 🌱 Изучаю **Docker**, микросервисы и автоматическое тестирование
+
+<br clear="right" />
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/jumaevshahrom07/jumaevshahrom07/main/assets/github-achievements.svg" alt="GitHub achievements" />
+
+</div>
+
+> Эти карточки показывают достижения, которые уже есть у тебя на GitHub: **Quickdraw**, **YOLO**, **Pair Extraordinaire** и **Pull Shark x2**. Официальные круглые значки остаются в блоке Achievements самого GitHub.
 
 ---
 
