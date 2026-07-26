@@ -133,6 +133,38 @@ REST API с аутентификацией и авторизацией. JWT, р�
 </tr>
 </table>
 
+<br>
+
+<div align="center">
+
+<a href="https://github.com/jumaevshahrom07/Cafe-CRM">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jumaevshahrom07&repo=Cafe-CRM&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=7C3AED&text_color=94A3B8" alt="Cafe CRM repository card" />
+</a>
+<a href="https://github.com/jumaevshahrom07/Course-Online">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jumaevshahrom07&repo=Course-Online&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=7C3AED&text_color=94A3B8" alt="Course Online repository card" />
+</a>
+
+<br>
+
+<a href="https://github.com/jumaevshahrom07/rest-api-auth">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jumaevshahrom07&repo=rest-api-auth&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=7C3AED&text_color=94A3B8" alt="REST API Auth repository card" />
+</a>
+<a href="https://github.com/jumaevshahrom07/user-management-system">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jumaevshahrom07&repo=user-management-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=7C3AED&text_color=94A3B8" alt="User Management System repository card" />
+</a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="divider" />
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=jumaevshahrom07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1" alt="GitHub Trophies" />
+
+</div>
+
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="divider" />
 
 ## 📊 GitHub Analytics
