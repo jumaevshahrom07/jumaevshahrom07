@@ -46,18 +46,6 @@ public sealed class Developer
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/jumaevshahrom07/jumaevshahrom07/main/assets/github-achievements.svg" alt="GitHub achievements" />
-
-</div>
-
-> Эти карточки показывают достижения, которые уже есть у тебя на GitHub: **Quickdraw**, **YOLO**, **Pair Extraordinaire** и **Pull Shark x2**. Официальные круглые значки остаются в блоке Achievements самого GitHub.
-
----
-
 ## 🧰 Tech Stack
 
 **Backend:** C#, .NET, ASP.NET Core, Web API, Entity Framework Core, MediatR, CQRS  
