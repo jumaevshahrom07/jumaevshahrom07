@@ -124,12 +124,7 @@ public sealed class Developer
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img
-    src="https://gh-trophy.cdnsoft.net/?username=jumaevshahrom07&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
-    alt="Shahrom Jumaev GitHub trophies"
-  />
-</a>
+[![GitHub Trophies](https://github-profile-trophy-fork-two.vercel.app/?username=jumaevshahrom07&theme=onedark&no-frame=true&no-bg=true&column=6&v=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
